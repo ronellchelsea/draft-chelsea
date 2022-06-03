@@ -63,3 +63,7 @@ nav ul li ul a:hover {
    background-color: #dfe5e8 ;
 }
 
+h1 {
+    text-align: center; 
+    text position: relative;
+}
